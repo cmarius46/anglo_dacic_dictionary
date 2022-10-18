@@ -1,8 +1,8 @@
 # anglo_dacic_dictionary
 - NOT CODE BASED - 
 
-TODOs: 
- - Turn dictionary to json format
+TODOs:
+ - Cretea categories : e.g. curses, words from the people, miscellaneous
  - Look for and remove duplicates
  - Add translations where necessary
  - Clear / improve current translations
